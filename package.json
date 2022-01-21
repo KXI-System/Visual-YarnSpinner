@@ -1,7 +1,10 @@
 {
   "name": "com.kxisystem.visualyarnspinner",
   "version": "0.5.0",
-  "displayName": "Visual YarnSpinner",
-  "description": "",
-  "unity": "2022.1"
+  "displayName": "Visual Yarn Spinner",
+  "dependencies": {
+    "dev.yarnspinner.unity": "2.0.2"
+  },
+  "unity": "2022.1",
+  "type": "tool"
 }
